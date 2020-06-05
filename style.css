@@ -1,0 +1,96 @@
+#gallery
+{	
+	padding: 25px;
+    float: left;
+	height:400px ;
+	width:300px;
+	object-fit: cover;
+}
+.col-sm
+{
+	align-self: center;
+}
+nav
+{
+	width: auto;
+	height: 3rem;
+}
+h2
+{
+	text-align: center;
+}
+#profile
+{
+	width: 25rem;
+	height:15rem;
+	float:left; 
+	padding-right: 20px;
+}
+.footer {
+	height: auto;
+	width: 100%;
+	
+	background: #0F83FF;
+    
+   
+}
+#aboutme
+{
+	border:1px solid blue;
+	margin: 19px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: auto;
+  height: auto;
+  text-align: center;
+  text-decoration: none;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-instagram
+{
+	background:  #fb3958;
+	color: white;
+
+}
+.fa-envelope
+{
+	background: #F20530;
+	color: white;
+}
+#icons
+{
+	margin: 20px;
+	height: 60px;
+	width: 60px;
+}
+#copy
+{
+	text-align: center;
+}
+#ic
+{
+	padding-left:  21rem;
+	align-content: center;
+}
+
+
+
+
+
+
+
+
+
+
